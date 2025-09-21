@@ -1,0 +1,335 @@
+[
+  {
+    "created_at": "2024-01-15T09:00:00Z",
+    "ad_id": "ad_001",
+    "product_id": "product_001",
+    "status": "running",
+    "localizations": [
+      {
+        "region": "IN-North",
+        "language": "hi",
+        "headline": "त्योहार सेल: हैंडलूम साड़ियों पर 30% तक की छूट!",
+        "stats": [
+          {
+            "name": "Impressions",
+            "value": 9000,
+            "unit": ""
+          },
+          {
+            "name": "Clicks",
+            "value": 800,
+            "unit": ""
+          },
+          {
+            "name": "Conversions",
+            "value": 60,
+            "unit": ""
+          },
+          {
+            "name": "Spent",
+            "value": 2100,
+            "unit": ""
+          }
+        ],
+        "hashtags": [
+          "#त्योहार_सेल",
+          "#HandloomSaree"
+        ],
+        "translation": "Festival Sale: Up to 30% off on Handloom Sarees!",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FT71SCpV5eUIivMfXt_83wIbt2BaM1P2Ag&s"
+        ],
+        "platforms": [
+          "facebook_ads",
+          "instagram_ads"
+        ],
+        "budget": 5000,
+        "duration_days": 7
+      },
+      {
+        "region": "IN-South",
+        "language": "ml",
+        "headline": "പർവദിന ഓഫർ: ഹാൻഡ്ലൂം സാരികളിൽ 30% വരെ ഓഫർ!",
+        "stats": [
+          {
+            "name": "Impressions",
+            "value": 6000,
+            "unit": ""
+          },
+          {
+            "name": "Clicks",
+            "value": 400,
+            "unit": ""
+          },
+          {
+            "name": "Conversions",
+            "value": 30,
+            "unit": ""
+          },
+          {
+            "name": "Spent",
+            "value": 1400,
+            "unit": ""
+          }
+        ],
+        "hashtags": [
+          "#പർവദിന_ഓഫർ",
+          "#HandloomSaree"
+        ],
+        "translation": "Festival Offer: 30% off on Handloom Sarees!",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FT71SCpV5eUIivMfXt_83wIbt2BaM1P2Ag&s"
+        ],
+        "platforms": [
+          "facebook_ads",
+          "instagram_ads"
+        ],
+        "budget": 5000,
+        "duration_days": 7
+      }
+    ],
+    "insights": [
+      {
+        "text": "Ad has a high click-through rate.",
+        "metric": {
+          "name": "CTR",
+          "value": 8,
+          "unit": "%"
+        }
+      },
+      {
+        "text": "Strong return on ad spend.",
+        "metric": {
+          "name": "ROAS",
+          "value": 3.2,
+          "unit": "x"
+        }
+      }
+    ],
+    "graphs": [
+      {
+        "title": "Spend vs Performance",
+        "type": "line",
+        "x_type": "datetime",
+        "data": [
+          {
+            "x": "2025-09-01",
+            "y": 500,
+            "series": "spend"
+          },
+          {
+            "x": "2025-09-01",
+            "y": 80,
+            "series": "clicks"
+          },
+          {
+            "x": "2025-09-01",
+            "y": 6,
+            "series": "conversions"
+          },
+          {
+            "x": "2025-09-02",
+            "y": 600,
+            "series": "spend"
+          },
+          {
+            "x": "2025-09-02",
+            "y": 120,
+            "series": "clicks"
+          },
+          {
+            "x": "2025-09-02",
+            "y": 10,
+            "series": "conversions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "insights": [
+      {
+        "text": "The English (Primary) ad 'Wear the Stars' shows a promising initial click-through rate, suggesting the creative and headline are resonating with the audience.",
+        "metric": {
+          "name": "CTR",
+          "value": 3.0,
+          "unit": "%"
+        }
+      },
+      {
+        "text": "Conversion rate for the English (Primary) ad is moderate at 3.3%, indicating potential for optimization in the conversion funnel.",
+        "metric": {
+          "name": "Conversion Rate",
+          "value": 3.3,
+          "unit": "%"
+        }
+      }
+    ],
+    "graphs": [
+      {
+        "title": "Daily Performance for Starlight Necklace (English, Primary)",
+        "type": "line",
+        "x_type": "datetime",
+        "data": [
+          {
+            "x": "2024-05-01",
+            "y": 12,
+            "series": "spend"
+          },
+          {
+            "x": "2024-05-01",
+            "y": 20,
+            "series": "clicks"
+          },
+          {
+            "x": "2024-05-01",
+            "y": 0,
+            "series": "conversions"
+          },
+          {
+            "x": "2024-05-02",
+            "y": 14,
+            "series": "spend"
+          },
+          {
+            "x": "2024-05-02",
+            "y": 25,
+            "series": "clicks"
+          },
+          {
+            "x": "2024-05-02",
+            "y": 1,
+            "series": "conversions"
+          },
+          {
+            "x": "2024-05-03",
+            "y": 15,
+            "series": "spend"
+          },
+          {
+            "x": "2024-05-03",
+            "y": 28,
+            "series": "clicks"
+          },
+          {
+            "x": "2024-05-03",
+            "y": 1,
+            "series": "conversions"
+          },
+          {
+            "x": "2024-05-04",
+            "y": 13,
+            "series": "spend"
+          },
+          {
+            "x": "2024-05-04",
+            "y": 22,
+            "series": "clicks"
+          },
+          {
+            "x": "2024-05-04",
+            "y": 0,
+            "series": "conversions"
+          },
+          {
+            "x": "2024-05-05",
+            "y": 16,
+            "series": "spend"
+          },
+          {
+            "x": "2024-05-05",
+            "y": 30,
+            "series": "clicks"
+          },
+          {
+            "x": "2024-05-05",
+            "y": 2,
+            "series": "conversions"
+          },
+          {
+            "x": "2024-05-06",
+            "y": 14,
+            "series": "spend"
+          },
+          {
+            "x": "2024-05-06",
+            "y": 20,
+            "series": "clicks"
+          },
+          {
+            "x": "2024-05-06",
+            "y": 1,
+            "series": "conversions"
+          },
+          {
+            "x": "2024-05-07",
+            "y": 14,
+            "series": "spend"
+          },
+          {
+            "x": "2024-05-07",
+            "y": 5,
+            "series": "clicks"
+          },
+          {
+            "x": "2024-05-07",
+            "y": 0,
+            "series": "conversions"
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-09-20T21:30:10.132625Z",
+    "localizations": [
+      {
+        "language": "en",
+        "translation": "",
+        "images": [
+          "https://images.pexels.com/photos/16653303/pexels-photo-16653303/free-photo-of-a-woman-in-a-sari-standing-in-a-field.jpeg"
+        ],
+        "hashtags": [
+          "#StarlightNecklace",
+          "#SilverJewelry",
+          "#StarPendant",
+          "#DelicateNecklace",
+          "#ElegantAccessory",
+          "#SpecialOccasionGift",
+          "#JewelryLove"
+        ],
+        "budget": 100,
+        "platforms": [
+          "instagram_ads",
+          "facebook_ads"
+        ],
+        "headline": "Wear the Stars",
+        "region": "Primary",
+        "duration_days": 7,
+        "stats": [
+          {
+            "name": "Impressions",
+            "value": 5000,
+            "unit": ""
+          },
+          {
+            "name": "Clicks",
+            "value": 150,
+            "unit": ""
+          },
+          {
+            "name": "Conversions",
+            "value": 5,
+            "unit": ""
+          },
+          {
+            "name": "Spent",
+            "value": 98,
+            "unit": ""
+          }
+        ]
+      }
+    ],
+    "ad_id": "ad_d2a82e1c-b4a8-4d42-9bc7-e9fc3a6b7b5d",
+    "product_id": "Starlight Necklace",
+    "status": "running"
+  }
+]

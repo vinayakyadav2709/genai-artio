@@ -1,0 +1,350 @@
+[
+  {
+    "status": "running",
+    "product_id": "product_001",
+    "name": "Handloom Cotton Saree",
+    "description": "Eco-friendly, handcrafted cotton saree.",
+    "price": 2500,
+    "category": "Traditional Wear",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FT71SCpV5eUIivMfXt_83wIbt2BaM1P2Ag&s"
+    ],
+    "hashtags": [
+      "#cotton"
+    ],
+    "recommendations": [],
+    "stats": [
+      {
+        "name": "Views",
+        "value": 1500,
+        "unit": ""
+      },
+      {
+        "name": "Clicks",
+        "value": 200,
+        "unit": ""
+      },
+      {
+        "name": "Conversions",
+        "value": 25,
+        "unit": ""
+      }
+    ],
+    "insights": [
+      {
+        "text": "Strong conversion rate.",
+        "metric": {
+          "name": "Conversion Rate",
+          "value": 12.5,
+          "unit": "%"
+        }
+      },
+      {
+        "text": "Instagram is top referrer.",
+        "metric": {
+          "name": "Referrals",
+          "value": 65,
+          "unit": "% from Instagram"
+        }
+      }
+    ],
+    "graphs": [
+      {
+        "title": "Product Views Over Time",
+        "type": "line",
+        "x_type": "datetime",
+        "data": [
+          {
+            "x": "2025-09-01",
+            "y": 200,
+            "series": "views"
+          },
+          {
+            "x": "2025-09-02",
+            "y": 300,
+            "series": "views"
+          }
+        ]
+      },
+      {
+        "title": "Conversion Funnel",
+        "type": "funnel",
+        "x_type": "string",
+        "data": [
+          {
+            "x": "views",
+            "y": 1500
+          },
+          {
+            "x": "clicks",
+            "y": 200
+          },
+          {
+            "x": "conversions",
+            "y": 25
+          }
+        ]
+      }
+    ],
+    "created_at": "2024-01-15T09:00:00Z"
+  },
+  {
+    "stats": [
+      {
+        "name": "Views",
+        "value": 850,
+        "unit": ""
+      },
+      {
+        "name": "Clicks",
+        "value": 110,
+        "unit": ""
+      },
+      {
+        "name": "Wishlist Adds",
+        "value": 25,
+        "unit": ""
+      },
+      {
+        "name": "Shares",
+        "value": 12,
+        "unit": ""
+      }
+    ],
+    "insights": [
+      {
+        "text": "The current description for the Starlight Necklace (en) is clear but could be more evocative, highlighting the emotional connection or quality of craftsmanship.",
+        "metric": {
+          "name": "Description Length",
+          "value": 14,
+          "unit": "words"
+        }
+      },
+      {
+        "text": "Engagement metrics for the Starlight Necklace (en) are good, indicating initial interest, but the click-through rate suggests potential for improvement with enhanced visuals or call-to-action.",
+        "metric": {
+          "name": "Click-Through Rate",
+          "value": 12.9,
+          "unit": "%"
+        }
+      },
+      {
+        "text": "The primary image for the Starlight Necklace (en) is lifestyle-oriented, which is good for aesthetic appeal, but lacks a clear close-up of the product itself for detailed inspection.",
+        "metric": {
+          "name": "Image Focus",
+          "value": "Lifestyle",
+          "unit": ""
+        }
+      }
+    ],
+    "recommendations": [
+      "Enhance the description for the Starlight Necklace (en) to include details about the material (e.g., '925 sterling silver'), craftsmanship, and perhaps a narrative around the 'star' theme (e.g., 'shimmering like a distant star').",
+      "Add a dedicated product-focused image for the Starlight Necklace (en) that clearly shows the pendant's details and chain texture, possibly with a white background for e-commerce standards.",
+      "Consider adding more specific occasion-based hashtags for the Starlight Necklace (en), such as '#AnniversaryGift', '#BirthdayPresent', or lifestyle hashtags like '#EverydayElegance', '#MinimalistJewelry' to broaden search visibility.",
+      "Implement A/B testing for different headline variations or call-to-actions on the product page for the Starlight Necklace (en) to optimize click-through and conversion rates."
+    ],
+    "graphs": [
+      {
+        "title": "Initial Engagement Funnel - Starlight Necklace (en)",
+        "type": "funnel",
+        "x_type": "string",
+        "data": [
+          {
+            "x": "Views",
+            "y": 850,
+            "series": ""
+          },
+          {
+            "x": "Clicks",
+            "y": 110,
+            "series": ""
+          },
+          {
+            "x": "Wishlist Adds",
+            "y": 25,
+            "series": ""
+          }
+        ]
+      },
+      {
+        "title": "Hashtag Performance - Starlight Necklace (en)",
+        "type": "bar",
+        "x_type": "string",
+        "data": [
+          {
+            "x": "#StarlightNecklace",
+            "y": 45,
+            "series": ""
+          },
+          {
+            "x": "#SilverJewelry",
+            "y": 30,
+            "series": ""
+          },
+          {
+            "x": "#StarPendant",
+            "y": 20,
+            "series": ""
+          },
+          {
+            "x": "#ElegantAccessory",
+            "y": 10,
+            "series": ""
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-09-20T20:49:03.798228Z",
+    "images": [
+      "https://images.pexels.com/photos/16653303/pexels-photo-16653303/free-photo-of-a-woman-in-a-sari-standing-in-a-field.jpeg"
+    ],
+    "description": "A delicate silver chain with a beautifully crafted star pendant, perfect for any occasion.",
+    "hashtags": [
+      "#StarlightNecklace",
+      "#SilverJewelry",
+      "#StarPendant",
+      "#DelicateNecklace",
+      "#ElegantAccessory",
+      "#SpecialOccasionGift"
+    ],
+    "name": "Starlight Necklace",
+    "price": 7500,
+    "category": "Jewelry",
+    "product_id": "products_dfe64d37-0204-459e-b0e7-7a026e99bebe",
+    "status": "running"
+  },
+  {
+    "stats": [
+      {
+        "name": "Views",
+        "value": 1200,
+        "unit": ""
+      },
+      {
+        "name": "Clicks",
+        "value": 150,
+        "unit": ""
+      },
+      {
+        "name": "Add-to-Cart",
+        "value": 30,
+        "unit": ""
+      },
+      {
+        "name": "Conversions",
+        "value": 8,
+        "unit": ""
+      }
+    ],
+    "insights": [
+      {
+        "text": "The Starlight Necklace (en) shows a good initial click-through rate, indicating strong interest in the product image and name.",
+        "metric": {
+          "name": "Click-Through Rate",
+          "value": 12.5,
+          "unit": "%"
+        }
+      },
+      {
+        "text": "The add-to-cart rate for the Starlight Necklace (en) is promising, suggesting the description and price are compelling after initial engagement.",
+        "metric": {
+          "name": "Add-to-Cart Rate",
+          "value": 20.0,
+          "unit": "%"
+        }
+      },
+      {
+        "text": "Conversion rate from clicks for the Starlight Necklace (en) is moderate, indicating potential for optimization in the checkout or product detail page.",
+        "metric": {
+          "name": "Conversion Rate (from Clicks)",
+          "value": 5.33,
+          "unit": "%"
+        }
+      }
+    ],
+    "recommendations": [
+      "Consider A/B testing the product description or adding more lifestyle images for the Starlight Necklace (en) to further improve add-to-cart to conversion funnel.",
+      "Explore retargeting campaigns for users who added the Starlight Necklace (en) to their cart but did not complete the purchase.",
+      "Promote the Starlight Necklace (en) on visually-driven platforms like Instagram and Pinterest, leveraging its elegant aesthetic for gift-giving occasions."
+    ],
+    "graphs": [
+      {
+        "title": "Starlight Necklace (en) Views Over Time",
+        "type": "line",
+        "x_type": "datetime",
+        "data": [
+          {
+            "x": "2024-04-01",
+            "y": 150,
+            "series": "views"
+          },
+          {
+            "x": "2024-04-02",
+            "y": 200,
+            "series": "views"
+          },
+          {
+            "x": "2024-04-03",
+            "y": 250,
+            "series": "views"
+          },
+          {
+            "x": "2024-04-04",
+            "y": 300,
+            "series": "views"
+          },
+          {
+            "x": "2024-04-05",
+            "y": 300,
+            "series": "views"
+          }
+        ]
+      },
+      {
+        "title": "Starlight Necklace (en) Conversion Funnel",
+        "type": "funnel",
+        "x_type": "string",
+        "data": [
+          {
+            "x": "views",
+            "y": 1200,
+            "series": ""
+          },
+          {
+            "x": "clicks",
+            "y": 150,
+            "series": ""
+          },
+          {
+            "x": "add_to_cart",
+            "y": 30,
+            "series": ""
+          },
+          {
+            "x": "conversions",
+            "y": 8,
+            "series": ""
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-09-20T20:22:23.961614Z",
+    "images": [
+      "https://images.pexels.com/photos/16653303/pexels-photo-16653303/free-photo-of-a-woman-in-a-sari-standing-in-a-field.jpeg"
+    ],
+    "description": "A delicate silver chain with a beautifully crafted star pendant, perfect for any occasion.",
+    "hashtags": [
+      "#StarlightNecklace",
+      "#SilverJewelry",
+      "#StarPendant",
+      "#DelicateNecklace",
+      "#ElegantAccessory",
+      "#SpecialOccasionGift"
+    ],
+    "name": "Starlight Necklace",
+    "price": 7500,
+    "category": "Jewelry",
+    "product_id": "product_1ca6dc23-e8f9-40ae-a504-fe3d2087cafe",
+    "status": "running"
+  }
+]

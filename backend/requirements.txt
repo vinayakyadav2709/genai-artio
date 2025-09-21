@@ -1,0 +1,20 @@
+# Web framework for building the API
+fastapi
+
+# ASGI server to run the FastAPI application
+uvicorn[standard]
+
+# Required by FastAPI for handling form data and file uploads
+python-multipart
+
+# For making HTTP requests (used in your AI file)
+requests
+
+# For image processing (PIL)
+Pillow
+
+# The official Google Gemini API client library
+google-generativeai
+
+# For loading environment variables from a .env file
+python-dotenv

@@ -1,0 +1,174 @@
+[{
+    "trending_products": [
+      {
+        "trend": "Organic Cotton Sarees",
+        "growth_rate": "12%",
+        "avg_price": 2500,
+        "insights": [
+          {
+            "text": "Organic cotton sarees are gaining traction.",
+            "metric": {"name": "Growth Rate", "value": 12, "unit": "%"}
+          }
+        ],
+        "graphs": [
+          {
+            "title": "Demand Over Time",
+            "type": "line",
+            "data": [
+              {"x": "2025-05", "y": 1200, "series": "mentions"},
+              {"x": "2025-06", "y": 1350, "series": "mentions"},
+              {"x": "2025-07", "y": 1600, "series": "mentions"}
+            ]
+          }
+        ],
+        "sources": [
+          {"title": "Helium10", "url": "https://www.helium10.com/tools/free/amazon-trending-products/"}
+        ]
+      },
+      {
+        "trend": "Hand-painted Silk Dupattas",
+        "growth_rate": "8%",
+        "avg_price": 1100,
+        "insights": [
+          {
+            "text": "Hand-painted dupattas are trending in urban markets.",
+            "metric": {"name": "Urban Trend", "value": 8, "unit": "%"}
+          }
+        ],
+        "charts": [
+          {
+            "title": "Mentions Over Time",
+            "type": "line",
+            "data": [
+              {"x": "2025-05", "y": 800, "series": "mentions"},
+              {"x": "2025-06", "y": 950, "series": "mentions"},
+              {"x": "2025-07", "y": 1200, "series": "mentions"}
+            ]
+          }
+        ],
+        "sources": [
+          {"title": "ExplodingTopics", "url": "https://explodingtopics.com/trending-topics"}
+        ]
+      }
+    ],
+    "trending_social_topics": [
+      {
+        "topic": "Eco-friendly Fashion",
+        "growth_rate": "15%",
+        "insights": [
+          {
+            "text": "Topic popularity is rising.",
+            "metric": {"name": "Monthly Growth", "value": 15, "unit": "%"}
+          }
+        ],
+        "graphs": [
+          {
+            "title": "Mentions Over Time",
+            "type": "line",
+            "data": [
+              {"x": "2025-05", "y": 1200, "series": "mentions"},
+              {"x": "2025-06", "y": 1600, "series": "mentions"}
+            ]
+          }
+        ],
+        "sources": [
+          {"title": "Google Trends", "url": "https://trends.google.com/..."}
+        ]
+      },
+      {
+        "topic": "Handloom Revival",
+        "growth_rate": "10%",
+        "insights": [
+          {
+            "text": "Handloom revival is a top conversation starter.",
+            "metric": {"name": "Growth Rate", "value": 10, "unit": "%"}
+          }
+        ],
+        "graphs": [
+          {
+            "title": "Social Mentions",
+            "type": "line",
+            "data": [
+              {"x": "2025-05", "y": 900, "series": "mentions"},
+              {"x": "2025-06", "y": 1100, "series": "mentions"}
+            ]
+          }
+        ],
+        "sources": [
+          {"title": "KeywordTool.io", "url": "https://keywordtool.io/trends"}
+        ]
+      }
+    ],
+    "trending_ad_topics": [
+      {
+        "topic": "Festival Offers",
+        "growth_rate": "18%",
+        "insights": [
+          {
+            "text": "Festival offers drive higher ad engagement.",
+            "metric": {"name": "Engagement Growth", "value": 18, "unit": "%"}
+          }
+        ],
+        "graphs": [
+          {
+            "title": "Ad Engagement Over Time",
+            "type": "line",
+            "data": [
+              {"x": "2025-08", "y": 800, "series": "engagement"},
+              {"x": "2025-09", "y": 1200, "series": "engagement"}
+            ]
+          }
+        ],
+        "sources": [
+          {"title": "Brave Search", "url": "https://search.brave.com/"}
+        ]
+      }
+    ],
+    "new_product_ideas": [
+      {
+        "idea": "Reversible Sarees",
+        "insights": [
+          {
+            "text": "Reversible sarees are a new trend in sustainable fashion.",
+            "metric": {"name": "Innovation Score", "value": 9, "unit": "/10"}
+          }
+        ],
+        "graphs": [
+          {
+            "title": "Searches for Reversible Sarees",
+            "type": "line",
+            "data": [
+              {"x": "2025-06", "y": 100, "series": "searches"},
+              {"x": "2025-07", "y": 250, "series": "searches"}
+            ]
+          }
+        ],
+        "sources": [
+          {"title": "ExplodingTopics", "url": "https://explodingtopics.com/trending-topics"}
+        ]
+      },
+      {
+        "idea": "Customizable Dupattas",
+        "insights": [
+          {
+            "text": "Personalization is a growing demand.",
+            "metric": {"name": "Personalization Trend", "value": 14, "unit": "%"}
+          }
+        ],
+        "graphs": [
+          {
+            "title": "Custom Product Mentions",
+            "type": "bar",
+            "data": [
+              {"x": "2025-05", "y": 50, "series": "mentions"},
+              {"x": "2025-06", "y": 90, "series": "mentions"}
+            ]
+          }
+        ],
+        "sources": [
+          {"title": "Google Trends", "url": "https://trends.google.com/..."}
+        ]
+      }
+    ]
+  }
+]

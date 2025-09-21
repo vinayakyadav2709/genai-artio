@@ -1,0 +1,88 @@
+[
+  {
+    "chat_id": "chat_001",
+    "customer_name": "Asha",
+    "language": "hi",
+    "conversation_history": [
+      {
+        "role": "customer",
+        "message": "नमस्ते, क्या यह साड़ी स्टॉक में है?",
+        "translation": "Great. Do you have it in blue color?",
+        "timestamp": "2025-09-10T14:25:00Z"
+      },
+      {
+        "role": "artisan",
+        "message": "नमस्ते आशा जी, हाँ यह उपलब्ध है।",
+        "translation": "Great. Do you have it in blue color?",
+        "timestamp": "2025-09-10T14:26:00Z"
+      },
+      {
+        "role": "customer",
+        "message": "बहुत बढ़िया। क्या आपके पास इसमें नीला रंग उपलब्ध है?",
+        "translation": "Great. Do you have it in blue color?",
+        "timestamp": "2025-09-10T14:30:00Z"
+      },
+      {
+        "role": "artisan",
+        "message": "देखां, आशाजी! यह साड़ी उपलब्ध है। आपके पास नीला रंग मुजे में संपर्क पांने के लिए मुजे में संपर्क पांने के लिए.",
+        "translation": "Great. Do you have it in blue color?",
+        "timestamp": "2025-09-15T14:43:04Z"
+      },
+      {
+        "role": "artisan",
+        "message": "नमस्ते आशा जी! हाँ, नीला रंग उपलब्ध है। क्या आप गहरे नीले या हल्के नीले रंग में रुचि रखती हैं? मैं आपको कुछ तस्वीरें भेज सकती हूँ।",
+        "timestamp": "2025-09-21T00:25:54.733818Z",
+        "translation": "Hello Asha ji! Yes, blue is available. Are you interested in dark blue or light blue? I can send you some pictures."
+      }
+    ],
+    "recommendations": [
+      "Prepare and have high-quality images of both dark blue and light blue sari options ready to send immediately upon the customer's response to maintain momentum.",
+      "Be prepared to clarify any specific details about the different shades of blue, such as material texture, patterns, or slight color variations, to aid the customer's choice.",
+      "After sending pictures, gently prompt the customer for their preference or any further questions to encourage progression towards a purchase decision."
+    ],
+    "stats": [
+      {
+        "name": "Message Length (words)",
+        "value": 23,
+        "unit": "words"
+      },
+      {
+        "name": "Questions Posed",
+        "value": 2,
+        "unit": ""
+      },
+      {
+        "name": "Proactive Offers",
+        "value": 1,
+        "unit": ""
+      }
+    ],
+    "insights": [
+      {
+        "text": "The draft effectively resolves the previous misunderstanding and poor response regarding blue color availability in chat_001, providing a clear and helpful answer.",
+        "metric": {
+          "name": "Issue Resolution",
+          "value": 1,
+          "unit": "flag"
+        }
+      },
+      {
+        "text": "The draft demonstrates proactive customer engagement by offering specific shade options (dark/light blue) and suggesting to send pictures, which can significantly expedite the purchase decision.",
+        "metric": {
+          "name": "Proactive Engagement",
+          "value": 1,
+          "unit": "flag"
+        }
+      },
+      {
+        "text": "The tone of the message is polite and engaging, fostering a positive customer experience and rebuilding trust after the previous communication issue.",
+        "metric": {
+          "name": "Sentiment Score",
+          "value": 0.9,
+          "unit": "probability"
+        }
+      }
+    ],
+    "graphs": []
+  }
+]
